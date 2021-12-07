@@ -1,0 +1,25 @@
+
+>
+java:S5542r"#Use secure mode and padding scheme.(ÿ½×Üÿÿÿÿÿ
+?
+java:S5542Š"#Use secure mode and padding scheme.(ÿ½×Üÿÿÿÿÿ
+x
+java:S3457Ì"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(£µë
+…
+java:S1128"cRemove this unused import 'com.sun.org.apache.xerces.internal.impl.xs.identity.IdentityConstraint'.(œÇğÆÿÿÿÿÿ8ÍÖ¤×/
+_
+java:S1128"BRemove this unused import 'iaik.pkcs.pkcs11.objects.RSAPublicKey'.(û·æª8ÎÖ¤×/
+Y
+java:S1128"7Remove this unused import 'java.security.spec.KeySpec'.(Îàèµÿÿÿÿÿ8ÎÖ¤×/
+^
+java:S1128"ARemove this unused import 'java.security.spec.RSAPrivateKeySpec'.(Ø€à–8ÎÖ¤×/
+]
+java:S1128"@Remove this unused import 'java.security.spec.RSAPublicKeySpec'.(”®ëİ8ÎÖ¤×/
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8ÎÖ¤×/
+O
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8ÎÖ¤×/
+;
+java:S2629Ì"$Invoke method(s) only conditionally.(£µë
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(œÇğÆÿÿÿÿÿ
